@@ -3,7 +3,7 @@
 
 This is **Themba** a South African Based **Freelance Developer**. <br /> 
 A React JS and Tailwind CSS Frontend Developer. <br /> 
-A Master of Animation and Responsive design.  <br /> 
-React routing and SPAs designer. <br /> 
+Whom is a  Master of Animation and Responsive design.  <br /> 
+Currently  mastering React routing and SPAs design for small businesses. <br /> 
 
 
