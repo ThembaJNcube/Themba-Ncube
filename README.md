@@ -11,6 +11,9 @@ Join me on this exhilarating journey as I continue to push the boundaries of web
 ### Tech-stack: <br/>
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
+<br/>
+<br/>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThembaJNcube&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThembaJNcube&theme=dark&hide_border=false)<br/>
