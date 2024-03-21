@@ -9,10 +9,10 @@ Driven by a relentless pursuit of excellence, I am currently immersed in designi
 Join me on this exhilarating journey as I continue to push the boundaries of web development, leveraging my expertise to create innovative solutions that make a lasting impact. Let's collaborate and embark on a quest to build something truly extraordinary together! <br/>
 
 ### Tech-stack: <br/>
-[<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
-<img width="75px" src="https://miro.medium.com/v2/resize:fit:1400/0*KPbWmGp-yjJOthQr.png" alt="TCSS Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />]
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
+<img width="75px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="CSS Icon" />
 
 
 <br/>
