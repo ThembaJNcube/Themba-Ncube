@@ -9,7 +9,10 @@ Driven by a relentless pursuit of excellence, I am currently immersed in designi
 Join me on this exhilarating journey as I continue to push the boundaries of web development, leveraging my expertise to create innovative solutions that make a lasting impact. Let's collaborate and embark on a quest to build something truly extraordinary together! <br/>
 
 ### Tech-stack: <br/>
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
+<img width="75px" src="[https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon](https://miro.medium.com/v2/resize:fit:1400/0*KPbWmGp-yjJOthQr.png).svg" alt="CSS Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
 
 <br/>
 <br/>
