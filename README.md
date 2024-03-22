@@ -11,9 +11,10 @@ Join me on this exhilarating journey as I continue to push the boundaries of web
 ### Tech-stack: <br/>
 <p align="left">
 <img width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
-<img width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
+<img width="35px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="Tailwind CSS Icon" />
+<img width="35px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp" alt="HTML Icon" />
 <img width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
-<img width="35px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="CSS Icon" />
+<img width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
 <p>
 
 
