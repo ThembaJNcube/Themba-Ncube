@@ -1,4 +1,4 @@
-Welcome to my GitHub profile!
+##Welcome to my GitHub profile!
 
 I'm Themba, a seasoned freelance developer hailing from South Africa. With a rich background in web development, I specialize in crafting exceptional frontend experiences using React.js and Tailwind CSS. <br/>
 
