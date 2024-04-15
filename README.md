@@ -2,7 +2,7 @@
 
 I'm Themba, a seasoned freelance developer hailing from South Africa. With a rich background in web development, I specialize in crafting exceptional frontend experiences using React.js and Tailwind CSS. <br/>
 
-My expertise extends beyond mere coding – I am a maestro of animation and responsive design, weaving together seamless transitions and visually striking layouts to captivate users. <br/>
+My expertise extends beyond coding – I am a maestro of animation, responsive design and cross-browser compatability, weaving together seamless transitions and visually striking layouts to captivate users. <br/>
 
 Driven by a relentless pursuit of excellence, I am currently immersed in designing cutting-edge Single Page Applications (SPAs) tailored specifically for small businesses, through the fusion of React's robust functionality and Tailwind CSS's unparalleled flexibility, I engineer dynamic interfaces that elevate user engagement and satisfaction. <br/>
 
