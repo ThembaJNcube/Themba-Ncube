@@ -30,10 +30,23 @@ Join me on this exhilarating journey as I continue to push the boundaries of web
   <img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql Icon" />
 </p>
 
+<br/>
+<br/>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <br/>
 <br/>
+
+
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThembaJNcube&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
